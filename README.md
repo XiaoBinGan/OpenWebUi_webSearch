@@ -1,0 +1,2 @@
+# OpenWebUi_webSearch
+ai_web_search 建议搭配openwebui使用
